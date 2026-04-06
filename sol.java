@@ -2,7 +2,7 @@ import java.util.Stack;
 
 class Main {
     public static void main(String[] args) {
-        int[] nums = {1, 2, 1};
+         int[] nums = {1, 2, 1};
         int[] result = nextGreaterElements(nums);
 
          for (int num : result) {
