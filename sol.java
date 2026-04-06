@@ -3,7 +3,7 @@ import java.util.Stack;
 class Main {
     public static void main(String[] args) {
          int[] nums = {1, 2, 1};
-        int[] result = nextGreaterElements(nums);
+         int[] result = nextGreaterElements(nums);
 
          for (int num : result) {
             System.out.print(num + " ");
